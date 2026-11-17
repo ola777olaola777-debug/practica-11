@@ -1,4 +1,4 @@
-/*Alfonso Francisco De Abiega L'Eglisse
+/*Guadalupe Gonzalez Nestor Federico
 Ejercicio clase
 calculadora*/
 
