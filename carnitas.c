@@ -1,3 +1,5 @@
+/*Guadalupe Gonzalez Nestor Federico
+Practica 11*/
 #include <stdio.h>
 #include <string.h>
 // Prototipo o firma de las funciones del programa
