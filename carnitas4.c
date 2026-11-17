@@ -1,3 +1,5 @@
+/*Guadalupe Gonzalez Nestor Federico
+Practica 11*/
 #include<stdio.h>
 void incremento();
 /* La variable enteraGlobal es vista por todas
