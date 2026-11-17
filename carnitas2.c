@@ -1,3 +1,5 @@
+/*Guadalupe Gonzalez Nestor Federico
+Practica 11*/
 #include <stdio.h>
 void sumar(); // prototipo de la función
 int main()
