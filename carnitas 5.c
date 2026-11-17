@@ -1,6 +1,5 @@
 /*Guadalupe Gonzalez Nestor Federico
-Ejercicio clase
-calculadora*/
+Practica 11*/
 
 #include <stdio.h>
 
