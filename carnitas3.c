@@ -1,3 +1,5 @@
+/*Guadalupe Gonzalez Nestor Federico
+Practica 11*/
 #include <stdio.h>
 int resultado; //variable global
 void multiplicar(); // prototipo de la función
